@@ -1,14 +1,14 @@
 # Daile
 Top-shown Shooter created with Unity.
 
-#Live
+## Live
 https://sharemygame.com/@Nauf/daile
 
-#Controls
+## Controls
 Arrow keys/WASD - movement
 Spacebar/Left click - shoot
 
-#Assets
+## Assets
 Stephen "Redshrike" Challener (graphic artist) and William.Thompsonj (contributor) https://opengameart.org/content/lpc-imp-2
 
 stealthix
