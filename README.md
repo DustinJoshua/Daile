@@ -1,5 +1,5 @@
 # Daile
-Top-shown Shooter created with Unity.
+Top-down Endless Shooter created with Unity.
 
 ## Live
 https://sharemygame.com/@Nauf/daile
